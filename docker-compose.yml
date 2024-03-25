@@ -2,7 +2,7 @@ version: "3.3"
 
 services:
   web:
-    image: jugal21/helloapi
+    image: jksuthar21/helloapi:lastest
     ports:
       - "3030:3030"
 
