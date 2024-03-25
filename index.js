@@ -4,7 +4,7 @@ const app = express();
 const port = 3030;
 
 app.get("/", (req, res) => {
-  res.send("Hello, this is ourrrssssss API!");
+  res.send("Hello, api is working,,,,,,,,!");
 });
 
 app.use(express.json());
